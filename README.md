@@ -1,10 +1,20 @@
-## Olá 👋
+## Save! Save! 👋
 
-Salve! Me chamo Boneco Sinforoso, também conhecido como Ícaro! :wink: 
+Hi, I'm Boneco Sinforoso, AKA Ícaro! :wink:
+
+<!-- ![armario](https://i.imgur.com/whfNCd2.gif) -->
+
+<!-- ![darksouls bruto](https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif) -->
+
+<div align="center">
+  <img src="https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif" alt="darksouls bruto">
+</div>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonecoSinforoso&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonecoSinforoso&theme=dark&layout=compact"/>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonecoSinforoso&theme=dark&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonecoSinforoso&theme=dark&layout=compact"/>
+  </p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -42,4 +52,6 @@ Salve! Me chamo Boneco Sinforoso, também conhecido como Ícaro! :wink:
   </a>
 </p>
 
-![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)
+
+![ rodapé ](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
