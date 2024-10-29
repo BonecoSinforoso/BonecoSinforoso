@@ -3,7 +3,7 @@
 <h1 align="center">SAVE! SAVE!</h1>
 
 <p align="center">
-  Hi, I'm Boneco Sinforoso, AKA Ícaro! :wink:  
+  Hi, I'm Boneco Sinforoso, AKA Ícaro! :wink:
 </p>
 
 <!-- ![armario](https://i.imgur.com/whfNCd2.gif) -->
@@ -13,27 +13,30 @@
   <img src="https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif" alt="darksouls bruto">
 </div>
 
+<h1 align="center">GitHub Stats</h1>
 <div>
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonecoSinforoso&theme=dark&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonecoSinforoso&theme=dark&layout=compact"/>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=BonecoSinforoso&theme=highcontrast&background=000056&border=282A36&dates=7ee3ff&ring=f50079&fire=f50079&stroke=f50079&currStreakLabel=12a000&sideLabels=12a000" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=BonecoSinforoso&theme=dark" alt="GitHub Streak" />
     </a>
   </p>
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<!-- <img src="https://streak-stats.demolab.com?user=BonecoSinforoso&theme=highcontrast&background=000056&border=282A36&dates=7ee3ff&ring=f50079&fire=f50079&stroke=f50079&currStreakLabel=12a000&sideLabels=12a000" alt="GitHub Streak" />-->
+
+<h1 align="center">Connect with me</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/%C3%ADcaro-carvalho-596015220/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="https://www.behance.net/sinforoso" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" alt="Behance" height="40" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/%C3%ADcaro-carvalho-596015220/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.behance.net/sinforoso" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" alt="Behance" height="40" width="40" />
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools</h1>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -58,6 +61,7 @@
   </a>
 </p>
 
+<h1 align="center">Little Snake</h1>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BonecoSinforoso/BonecoSinforoso/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BonecoSinforoso/BonecoSinforoso/output/github-contribution-grid-snake-dark.svg">
