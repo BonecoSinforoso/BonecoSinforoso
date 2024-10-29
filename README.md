@@ -58,6 +58,12 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BonecoSinforoso/BonecoSinforoso/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BonecoSinforoso/BonecoSinforoso/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BonecoSinforoso/BonecoSinforoso/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- ![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)-->
 
 ![ rodapé ](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
