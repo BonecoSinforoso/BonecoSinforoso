@@ -1,6 +1,8 @@
-## Save! Save! 👋
+<h1 align="center">SAVE! SAVE!</h1>
 
-Hi, I'm Boneco Sinforoso, AKA Ícaro! :wink:
+<p align="center">
+  Hi, I'm Boneco Sinforoso, AKA Ícaro! :wink:  
+</p>
 
 <!-- ![armario](https://i.imgur.com/whfNCd2.gif) -->
 
