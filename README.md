@@ -17,6 +17,9 @@
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonecoSinforoso&theme=dark&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonecoSinforoso&theme=dark&layout=compact"/>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=BonecoSinforoso&theme=highcontrast&background=000056&border=282A36&dates=7ee3ff&ring=f50079&fire=f50079&stroke=f50079&currStreakLabel=12a000&sideLabels=12a000" alt="GitHub Streak" />
+    </a>
   </p>
 </div>
 
