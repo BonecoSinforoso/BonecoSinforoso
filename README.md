@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
+
 <h1 align="center">SAVE! SAVE!</h1>
 
 <p align="center">
@@ -5,7 +7,6 @@
 </p>
 
 <!-- ![armario](https://i.imgur.com/whfNCd2.gif) -->
-
 <!-- ![darksouls bruto](https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif) -->
 
 <div align="center">
@@ -44,10 +45,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
