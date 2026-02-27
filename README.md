@@ -6,9 +6,6 @@
   Hi, I'm Boneco Sinforoso, AKA Ícaro! :wink:
 </p>
 
-<!-- ![armario](https://i.imgur.com/whfNCd2.gif) -->
-<!-- ![darksouls bruto](https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif) -->
-
 <div align="center">
   <img src="https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif" alt="darksouls bruto">
 </div>
@@ -16,8 +13,6 @@
 <h1 align="center">GitHub Stats</h1>
 <div>
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonecoSinforoso&theme=dark&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonecoSinforoso&theme=dark&layout=compact"/>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=BonecoSinforoso&theme=dark" alt="GitHub Streak" />
     </a>
